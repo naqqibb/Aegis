@@ -1,4 +1,4 @@
-# Aegis
+# Aegis Cybernetic Security Systems
 
 A robust, secure, and scalable authentication and authorization framework designed to protect your applications with enterprise-grade security features.
 
